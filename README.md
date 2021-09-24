@@ -1,1 +1,1 @@
-# bicep-webtest-article
+This is complementary material to my blog post which can be found [here](https://www.azureblue.io/how-to-create-an-app-insight-availability-tests-with-bicep)
